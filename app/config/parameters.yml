@@ -1,0 +1,14 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_drivers: pdo_sqlite
+    database_host: null
+    database_port: null
+    database_name: symfony
+    database_user: null
+    database_password: null
+    database_path: '%kernel.project_dir%/var/data/data.sqlite'
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: ivan.brunetmanquat@gmail.com
+    mailer_password: null
+    secret: 8783d941ba0a9e898a602df504e37c5728291252
